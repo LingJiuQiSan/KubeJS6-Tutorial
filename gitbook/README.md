@@ -16,7 +16,7 @@
 
 ## 建议的准备
 
-拥有良好的网络环境（本教程使用 [imgur图床](https://imgur.com/) 作为图片来源，请确保您能够访问此网站）
+拥有良好的网络环境（本教程使用 [SM.MS](https://sm.ms/) 作为图片来源，请确保您能够访问此网站）
 
 [Probejs 我的世界模组](https://www.curseforge.com/minecraft/mc-mods/probejs) 与 [Probejs vscode 插件](https://marketplace.visualstudio.com/items?itemName=Prunoideae.probejs)（它能为你在vscode中补全代码）
 
